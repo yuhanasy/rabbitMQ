@@ -1,0 +1,13 @@
+{
+  "name": "test1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "yuhanas yulianto",
+  "license": "MIT",
+  "dependencies": {
+    "amqplib": "^0.8.0"
+  },
+  "devDependencies": {
+    "dotenv": "^10.0.0"
+  }
+}
